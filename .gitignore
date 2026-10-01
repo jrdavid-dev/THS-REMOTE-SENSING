@@ -1,2 +1,4 @@
 *.csv
 Paoay_SHP_FILE/
+venv
+exports
